@@ -4,7 +4,7 @@ A simple django and restframework crude application.  This tres to show  drf usa
 
 
 #  Direction.
-- clone this repo.
+- clone this repo.  using ``git clone https://github.com/Stephen-Kamau/DRF_crude_api.git``
 -change dir to ``cd DRF_crude_api/rest_crude``
 - configure in the setting.py your database credentials.
 -follow the following
